@@ -1,0 +1,8 @@
+simulacion_normal_bivariada_sf.py
+Rutina que simula normales bivariadas. No usa módulos numéricos ni usa funciones. Versión más sencilla de las tres, recomendada para quien no esté familiarizado con el lenguaje.
+
+simulacion_normal_bivariada_cf.py
+Rutina que simula normales bivariadas. No usa módulos numéricos, sí define funciones. El uso de funciones no aprolija mucho el código, pero les quedan por si algún día quieren hacer algo similar y las quieren copiar.
+
+simulacion_normal_bivariada_numpy.py
+Rutina que simula normales bivariadas. Usa módulo numérico NumPy (para manejo de arrays) y usa funciones. Si saben usar NumPy quizás les sea más fácil contar los "casos favorables" para responder las preguntas el T.P.
